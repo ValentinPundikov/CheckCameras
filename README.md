@@ -24,8 +24,7 @@
 
 
 Установите необходимые зависимости с помощью pip:
-
-'''bash
+```bash
 pip install -r requirements.txt 
 
 
