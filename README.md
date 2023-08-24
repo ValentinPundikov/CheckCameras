@@ -21,7 +21,7 @@
 Установите необходимые зависимости с помощью pip:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 Замените YOUR_TOKEN на ваш токен бота Telegram.
 Замените CHAT_ID1, CHAT_ID2, CHAT_ID3 на ID чатов, в которые будут отправляться уведомления.
